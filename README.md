@@ -26,7 +26,7 @@ This design reimagines your Discord client as a crystalline command hub — eleg
 <img width="1920" height="1078" alt="Discord_ch3PixWkxm" src="https://github.com/user-attachments/assets/b504a0ea-1009-42e8-851e-b2c272c4eab2" />
 
 ## Credits  
-- 🎖 **ungiglio** — for the original [DiscordDiscordia](https://github.com/ungiglio/DiscordDiscordia) base theme  
+- 🎖 **ungiglio**: For the original [DiscordDiscordia](https://github.com/ungiglio/DiscordDiscordia) base theme  
 - ⚡ **[Muhamed Ads](https://github.com/muhamedlabs)** — for advanced rework, polish, and UX enhancements
 
 
