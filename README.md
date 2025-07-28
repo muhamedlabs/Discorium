@@ -6,7 +6,7 @@
 
 
 ## Description
-The **Muhamed-Nagai** theme is a minimalist Discord design inspired by the concept of a "window into mechanics." It combines frosted translucent elements, dynamic accents, and interactive effects that mimic the behavior of smart glass.
+Welcome to the Discorium — a refined interface forged in the depths of **Discorium**. Immerse yourself in translucent glass aesthetics, bathed in soft violet glow and shimmering light blue highlights. This theme turns your client into a crystal battlefield of elegance, calm, and futuristic harmony.
 
 ## Key Features
 - **Dynamic Glass**: Matte surfaces with transparent zones (adapts to background colors)
