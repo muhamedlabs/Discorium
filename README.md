@@ -26,6 +26,6 @@ The **Muhamed-Nagai** theme is a minimalist Discord design inspired by the conce
 <img width="1920" height="1078" alt="Discord_ch3PixWkxm" src="https://github.com/user-attachments/assets/b504a0ea-1009-42e8-851e-b2c272c4eab2" />
 
 ## Credits
-- **CapnKitten**: The theme is based on [DiscordDiscordia](https://github.com/CapnKitten/BetterDiscord/tree/master/Themes/Translucence](https://github.com/ungiglio/DiscordDiscordia). Huge thanks for the inspiration and source code!
+- **CapnKitten**: The theme is based on [DiscordDiscordia](https://github.com/ungiglio/DiscordDiscordia). Huge thanks for the inspiration and source code!
 - **[Muhamed Ads](https://github.com/muhamedlabs)** — for improvements and ideas.
 
